@@ -29,4 +29,4 @@ jobs:
         contains(github.event.pull_request.labels.*.name, '🐛 Bug')
       with:
         project: 'https://github.com/users/hirsch88/projects/2'
-        column_name: 'Todo'
+        column_name: 'New'
